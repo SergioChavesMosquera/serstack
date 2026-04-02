@@ -8,7 +8,6 @@ import SocialProof from './components/SocialProof'
 import Contact from './components/Contact'
 import Footer from './components/Footer'
 import TechStack from './components/TechStack'
-import BuilderSection from "@/app/components/ui/BuilderSection"
 
 export default function Home() {
   return (
@@ -19,7 +18,6 @@ export default function Home() {
       <Problem />
       <Solution />
       <Services />
-      <BuilderSection />
       <Projects />
       <SocialProof />
       <Contact />
